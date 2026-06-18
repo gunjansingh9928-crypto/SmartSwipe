@@ -32,8 +32,9 @@ Take your time to experiment. Use visualizations to build intuition — a plot o
 
 **Gradient Descent — How Models Actually Learn**
 - 📹 [Gradient Descent, Step by Step — StatQuest](https://www.youtube.com/watch?v=sDv4f4s2SB8) — The most important video this week.
-- 📄 [Gradient Descent Unraveled — Towards Data Science](https://towardsdatascience.com/gradient-descent-unraveled-3274c895d12d/) — Readable walkthrough with visuals.
+- 📄 (https://towardsdatascience.com/gradient-descent-unraveled-3274c895d12d-2/) — Readable walkthrough with visuals.
 - 📄 [Types of Optimizers — arxiv](https://arxiv.org/pdf/1609.04747) ⭐ *Only for the curious* — SGD, Adam, and beyond.
+- 📄 (https://www.geeksforgeeks.org/deep-learning/adam-optimizer)/  -- *OPTIONAL But Great resource for the ADAM OPTIMIZER, very frequently used in various models*
 
 **Model Evaluation**
 - 📹 [Train/Test Split — StatQuest](https://www.youtube.com/watch?v=fSytzGwwBVw) — Short and essential (~6 min).
