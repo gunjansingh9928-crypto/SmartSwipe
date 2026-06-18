@@ -1,5 +1,6 @@
 ## 📋 Week 2 Assignment
 
+### DEADLINE : 22 June 2026, MONDAY - End Of Day
 
 This Week 2 assignment gives you hands-on practice with the mathematical foundation that powers SmartSwipe. By the end, you'll understand exactly how a machine *learns* from data — which is the core question behind everything we're building.
 
@@ -18,8 +19,6 @@ This week you'll work with:
 - Getting intuition for overfitting vs underfitting
 
 Take your time to experiment. Use visualizations to build intuition — a plot often explains more than a formula.
-
-**Submit by: [date]**
 
 ---
 
